@@ -7,11 +7,11 @@ sections:
 - type: heading
   label: Content
 - type: document
-  path: content/about/info.md
-  label: Info Page
-- type: document
   path: content/data/aboutus.yaml
   label: About Us
+- type: document
+  path: content/about/info.md
+  label: Info Page
 - type: heading
   label: Config
 - type: document
