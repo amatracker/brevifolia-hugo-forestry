@@ -11,6 +11,6 @@ contact_info:
 type: ''
 
 ---
-## Herro, Chiri Oil?
+## Herro, Chirri Oil?
 
 ## To get started, import this site into Forestry or checkout the repository [here](https://github.com/kendallstrautman/starter-blog-hugo "forestry starter blog hugo").
